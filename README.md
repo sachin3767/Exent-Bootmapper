@@ -1,5 +1,5 @@
 # Exent-Bootmapper
-1. Download Bootmapper client from (windows)https://www.dropbox.com/s/3bn9flirkb49ahz/BootMapperClient.zip?dl=0 or (macOS)https://www.dropbox.com/s/wselndg19ofby85/BootMapperClient.mac.zip?dl=0 and the hex files from this rep
+1. Download Bootmapper client from (windows)https://www.dropbox.com/s/3bn9flirkb49ahz/BootMapperClient.zip?dl=0 or (macOS)https://www.dropbox.com/s/wselndg19ofby85/BootMapperClient.mac.zip?dl=0 and the hex files from this rep or latest version from https://github.com/showjean/ps2avrU/releases
 2. Open bootmapper client
 3. Short the BACKSPACE (or left split BACKSPACE) on your PCB with a pair of tweezers/paperclip while plugging into a DIRECT usb port 
 4. Go to Options, click Firm Up and select the ps2avrGB_NKRO.hex file. Wait for it to finish.
