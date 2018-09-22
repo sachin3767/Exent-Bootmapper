@@ -1,5 +1,5 @@
 # Exent-Bootmapper
-1. Download Bootmapper client from https://www.dropbox.com/s/3bn9flirkb49ahz/BootMapperClient.zip?dl=0 and both hex files from this rep
+1. Download Bootmapper client from (windows)https://www.dropbox.com/s/3bn9flirkb49ahz/BootMapperClient.zip?dl=0 or (macOS)https://www.dropbox.com/s/wselndg19ofby85/BootMapperClient.mac.zip?dl=0 and the hex files from this rep
 2. Open bootmapper client
 3. Short the BACKSPACE (or left split BACKSPACE) on your PCB with a pair of tweezers/paperclip while plugging into a DIRECT usb port 
 4. Go to Options, click Firm Up and select the ps2avrGB_NKRO.hex file. Wait for it to finish.
@@ -12,6 +12,6 @@
 1. Once you're done flashing, go to Options. 
 2. Select Connect
 3. Change the number of RGB LEDs to 20
-4. Select Rainbow and change the colors in each box. Change options 2,3 & 4 to different colors  
+4. Select Rainbow and change the colors in each box. Change options 2, 3 & 4 to different colors  
 5. You can configure the brightness, colour and speed transition here. 
 
