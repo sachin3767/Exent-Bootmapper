@@ -17,14 +17,14 @@
 
 # Troubleshooting
 1. The PCB is not recognised in devices. 
-  a. ensure the backspace is held down prior to connecting the board to the PC/mac
-  b. check in device manager(windows) or system information(macOS) for HIDBoot when in bootloader mode
+a. ensure the backspace is held down prior to connecting the board to the PC/mac
+b. check in device manager(windows) or system information(macOS) for HIDBoot when in bootloader mode
 
 2. Bootmapper Client says it does not recognise ps2avrGB device
-  a. the incorrect firmware has been flashed to the PCB
-  b. download the latest version from https://github.com/showjean/ps2avrU/releases
-  c. confirm it is ps2avrGB_firmware_vX...zip
-  d. unzip the files and when you select firm up, choose the file that is ps2avrGB_NKRO.hex
+a. the incorrect firmware has been flashed to the PCB
+b. download the latest version from https://github.com/showjean/ps2avrU/releases
+c. confirm it is ps2avrGB_firmware_vX...zip
+d. unzip the files and when you select firm up, choose the file that is ps2avrGB_NKRO.hex
 
 
   
