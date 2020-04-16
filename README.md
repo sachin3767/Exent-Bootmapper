@@ -26,5 +26,5 @@ Bootmapper Client says it does not recognise ps2avrGB device
 3. confirm it is ps2avrGB_firmware_vX...zip
 4. unzip the files and when you select firm up, choose the file that is ps2avrGB_NKRO.hex
 
-
-  
+Some keys are not recognised - usually backspace, pipe, enter, up arrow, right arrow
+1. Culprit is screw in stabs at the delete key - add some sticky tape under the screws
