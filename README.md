@@ -20,11 +20,14 @@ The PCB is not recognised in devices.
 1. ensure the backspace is held down prior to connecting the board to the PC/mac
 2. check in device manager(windows) or system information(macOS) for HIDBoot when in bootloader mode
 
+
 Bootmapper Client says it does not recognise ps2avrGB device
 1. the incorrect firmware has been flashed to the PCB
 2. download the latest version from https://github.com/showjean/ps2avrU/releases
 3. confirm it is ps2avrGB_firmware_vX...zip
 4. unzip the files and when you select firm up, choose the file that is ps2avrGB_NKRO.hex
 
+
 Some keys are not recognised - usually backspace, pipe, enter, up arrow, right arrow
-1. Culprit is screw in stabs at the delete key - add some sticky tape under the screws
+1. Culprit is the screw-in stabs at the backspace key is shorting the entire column to ground 
+2. Fix: add some sticky tape under the screws, just enough to cover the pads. 
